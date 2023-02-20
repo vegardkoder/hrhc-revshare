@@ -1,0 +1,21 @@
+{
+  "name": "solport-nft-staking-hippos-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "start": "ts-node app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.73.0",
+    "bs58": "^4.0.1",
+    "ts-node": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/bs58": "^4.0.1",
+    "typescript": "^4.5.4"
+  }
+}
